@@ -1,2 +1,16 @@
-# Tax-Calculator-Bangladesh-by-Siyam
-📊 Tax Calculator Bangladesh – A smart and powerful income tax calculator for 🇧🇩. Instantly calculate taxes based on NBR slab rates. Supports multiple income sources, auto rebate calculation, and a user-friendly UI. 100% localized for Bangladesh taxpayers, ensuring accurate and smooth calculations.
+# 📊 Tax Calculator Bangladesh  
+**🇧🇩 Simple • Accurate • Up-to-Date Tax Calculation**
+
+---
+
+## ✨ Features
+✅ **Annual Income Input** – Calculate taxes based on yearly income  
+✅ **Gender Selection** – Different tax slabs for Male, Female, and Third Gender  
+✅ **Age Support** – Tax calculation adjusts according to age group  
+✅ **Profession-Based Tax** – Different rates for Job, Business, Freelancing, and Others  
+✅ **Investment Rebate** – Auto calculation of tax rebates based on investments  
+✅ **Bangladesh Specific** – Fully compliant with NBR tax rules  
+
+
+
+
